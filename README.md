@@ -16,7 +16,7 @@ A web application for Employee Management System with the following features:
   6. Thymeleaf
 
 ### Big Picture
-![bigPicture](https://user-images.githubusercontent.com/83831759/170817655-d5fbc406-9754-4f00-94b4-32e2a624d7a2.png)
+![bigPicture2](https://user-images.githubusercontent.com/83831759/170820053-0a83b399-7789-475c-bd22-bda1ee7ac26a.png)
 
 ### Application Architecture
-![AppArchitecture](https://user-images.githubusercontent.com/83831759/170817929-7392ea19-abc7-422b-b2b8-8dbe27c33596.png)
+![AppArchitecture](https://user-images.githubusercontent.com/83831759/170820060-2a4ce214-bea3-48b8-bd86-28931513bad4.png)
