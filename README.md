@@ -15,7 +15,6 @@ A web application for Employee Management System with the following features:
   5. Spring Data JPA (Hibernate)
   6. Thymeleaf
 
-### Big Picture
 ![bigPicture2](https://user-images.githubusercontent.com/83831759/170820053-0a83b399-7789-475c-bd22-bda1ee7ac26a.png)
 
 ### Application Architecture
